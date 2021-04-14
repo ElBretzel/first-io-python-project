@@ -4,11 +4,11 @@ This little project was my first Python project dealing with I/O.
 You can create text files with some custom shapes in it.
 
 
-## Disclaimer
+## :loudspeaker: Disclaimer
 The project is abandonned since 2019.  
 I will no longer maintain the portability of the project.
 
-## Features
+## :memo: Features
 * 1.0
 	* Read, write, edit, delete text files into the console.
 	* Possibility to create custom shapes in the file.
@@ -17,7 +17,7 @@ I will no longer maintain the portability of the project.
 	* An interactive main menu
 	* And many more...
 	
-## Illustrations
+## :black_nib: Illustrations
 ### Create basic text:  
 ![BASIC](https://github.com/ElBretzel/first-io-python-project/blob/main/sources/gif-basic.gif?raw=true)
 ### Create complex text:
@@ -30,20 +30,20 @@ I will no longer maintain the portability of the project.
 ![PARAM](https://github.com/ElBretzel/first-io-python-project/blob/main/sources/gif-parameters.gif?raw=true)
 
 	
-## Installation
+## :mag_right: Installation
 
 1. If you don't have Python installed, download the last version [here][1].
 2. Download the [last release version][2] of the project.
 3. Launch the "projet.py" file.
 4. Have fun.
 
-## Compatibility
+## :computer: Compatibility
 Works on Windows 10 with Python 3.6
 
-## License and Credits
+## :key: License and Credits
 This text editing project is released under the Apache License 2.0.
 
-## Personal Note
+## :pushpin: Personal Note
 *I don't think anyone will find this project useful for their personal use. My main goal for this project was to train with I/O in Python .  
 
 The project has very poor Pythonic content. I did not modify the project before republishing it on Github. Therefore, the code may not be maintenable.  
