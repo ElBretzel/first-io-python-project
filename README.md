@@ -34,7 +34,7 @@ I will no longer maintain the portability of the project.
 
 1. If you don't have Python installed, download the last version [here][1].
 2. Download the [last release version][2] of the project.
-3. Launch the "projet.py" file.
+3. Launch the 'main.py' file in the data directory.
 4. Have fun.
 
 ## :computer: Compatibility
